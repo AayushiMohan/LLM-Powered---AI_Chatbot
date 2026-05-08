@@ -39,17 +39,17 @@ Shiva is a responsive AI chatbot that uses the Groq API (LLaMA 3.3 70B) to gener
 ## Project Structure:
 
 - shiva-chatbot/
-├── backend/
-│   ├── server.js
-│   ├── .env
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── index.js
-│   └── package.json
-└── README.md
+* backend/
+   -server.js
+   -.env
+   -package.json
+* frontend/
+  -folder- src/
+        - App.js
+        - App.css
+        - index.js
+        - package.json
+- README.md
 ---
 
 ## Getting Started
