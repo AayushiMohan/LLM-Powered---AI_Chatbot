@@ -37,7 +37,8 @@ Shiva is a responsive AI chatbot that uses the Groq API (LLaMA 3.3 70B) to gener
 ---
 
 ## Project Structure:
-shiva-chatbot/
+
+- shiva-chatbot/
 ├── backend/
 │   ├── server.js
 │   ├── .env
@@ -74,8 +75,8 @@ npm install
 ```
 
 Create a `.env` file inside `backend/`: 
-GROQ_API_KEY=your_groq_api_key_here
-PORT=5000
+- GROQ_API_KEY=your_groq_api_key_here
+  PORT=5000
 ---
 Start the server:
 
