@@ -125,3 +125,4 @@ Visit **http://localhost:3000** and start chatting!
 - User authentication
 - Multiple AI personas
 - Deploy on Vercel + Render
+---
